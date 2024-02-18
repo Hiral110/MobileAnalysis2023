@@ -32,15 +32,15 @@ The Power BI dashboard included in this project provides visualizations of the k
 For the Power BI dashboard please check [MobileAnalysis2023]()
 
 ### Features of the Dashboard
-**Interactive Charts** : Explore various aspects of mobile phones such as operating systems, internal storage capacity, and 5G availability through interactive bar charts. These visualizations provide insights into the distribution and comparison of different features across the dataset.
+- **Interactive Charts** : Explore various aspects of mobile phones such as operating systems, internal storage capacity, and 5G availability through interactive bar charts. These visualizations provide insights into the distribution and comparison of different features across the dataset.
 
-**Pie Charts**: Analyze mobile phone brands, selfie camera specifications, battery capacity, and other categorical data using pie charts. These visualizations help identify trends within specific categories, allowing for easy comparison and understanding of the data.
+- **Pie Charts**: Analyze mobile phone brands, selfie camera specifications, battery capacity, and other categorical data using pie charts. These visualizations help identify trends within specific categories, allowing for easy comparison and understanding of the data.
 
-**Data Filters**: Easily filter the data based on specific criteria such as mobile phone brands, operating systems, or feature availability to focus on areas of interest and uncover valuable insights.
+- **Data Filters**: Easily filter the data based on specific criteria such as mobile phone brands, operating systems, or feature availability to focus on areas of interest and uncover valuable insights.
 
-**Drill-Down Functionality**: With drill-down functionality, users can click on a specific bar to reveal detailed information about the 5G availability of individual brands.Also by utilizing drill-down functionality, users can explore price ranges within each operating system category, gaining insights into pricing trends and variations.
+- **Drill-Down Functionality**: With drill-down functionality, users can click on a specific bar to reveal detailed information about the 5G availability of individual brands.Also by utilizing drill-down functionality, users can explore price ranges within each operating system category, gaining insights into pricing trends and variations.
 
-**Visual Themes and Layout**: The dashboard features a visually appealing layout with modern design elements, making it easy for users to explore and interpret the data.
+- **Visual Themes and Layout**: The dashboard features a visually appealing layout with modern design elements, making it easy for users to explore and interpret the data.
 
 ## Dataset
 
