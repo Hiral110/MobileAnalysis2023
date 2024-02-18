@@ -29,7 +29,7 @@ For SQL file please check [MobileAnalysis2023 SQL](https://github.com/Hiral110/M
 
 The Power BI dashboard included in this project provides visualizations of the key insights derived from the mobile phone dataset. The dashboard offers interactive charts, graphs, and tables to explore and analyze the data in a user-friendly manner.
 
-For the Power BI dashboard you can [view the raw content](https://github.com/Hiral110/MobileAnalysis2023/blob/main/MobileAnalysis2023.pbix)
+For the Power BI dashboard you can [view the raw content](https://github.com/Hiral110/MobileAnalysis2023/raw/main/MobileAnalysis2023.pbix)
 
 ### Features of the Dashboard
 - **Interactive Charts** : Explore various aspects of mobile phones such as operating systems, internal storage capacity, and 5G availability through interactive bar charts. These visualizations provide insights into the distribution and comparison of different features across the dataset.
