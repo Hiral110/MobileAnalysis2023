@@ -11,7 +11,7 @@ The project was undertaken to explore SQL queries and building Power BI dashboar
 
 The SQL queries provided in this project are used to extract and manipulate data from the mobile phone dataset. These queries can be used to perform various analyses and generate insights into mobile phone trends and features in the year 2023.
 
-For SQL file please check [MobileAnalysis2023]()
+For SQL file please check [MobileAnalysis2023](https://github.com/Hiral110/MobileAnalysis2023/blob/main/MobileAnalysis2023.sql)
 
 ### Example Queries
 1. Mobile feature and prices
@@ -46,7 +46,7 @@ For the Power BI dashboard please check [MobileAnalysis2023]()
 
 The dataset used for this project is a CSV file containing information about different mobile phone models and their features. It includes data relevant to mobile phones available in the year 2023.
 
-- Dataset Link : [Mobile Analysis]
+- Dataset Link : [Mobile Analysis](https://github.com/Hiral110/MobileAnalysis2023/blob/main/Mobile%20Analysis.csv)
 
 
 
