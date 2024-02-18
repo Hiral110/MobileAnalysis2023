@@ -11,6 +11,8 @@ The project was undertaken to explore SQL queries and building Power BI dashboar
 
 The SQL queries provided in this project are used to extract and manipulate data from the mobile phone dataset. These queries can be used to perform various analyses and generate insights into mobile phone trends and features in the year 2023.
 
+For SQL file please check [MobileAnalysis2023]()
+
 ### Example Queries
 1. Mobile feature and prices
 2. Find out the price of 5 most expensive phones.
@@ -27,14 +29,24 @@ The SQL queries provided in this project are used to extract and manipulate data
 
 The Power BI dashboard included in this project provides visualizations of the key insights derived from the mobile phone dataset. The dashboard offers interactive charts, graphs, and tables to explore and analyze the data in a user-friendly manner.
 
+For the Power BI dashboard please check [MobileAnalysis2023]()
+
 ### Features of the Dashboard
 **Interactive Charts** : Explore various aspects of mobile phones such as operating systems, internal storage capacity, and 5G availability through interactive bar charts. These visualizations provide insights into the distribution and comparison of different features across the dataset.
-**Pie Charts**: Analyze mobile phone brands, selfie camera specifications, battery capacity, and other categorical data using pie charts. These visualizations help identify trends and proportions within specific categories, allowing for easy comparison and understanding of the data.
+
+**Pie Charts**: Analyze mobile phone brands, selfie camera specifications, battery capacity, and other categorical data using pie charts. These visualizations help identify trends within specific categories, allowing for easy comparison and understanding of the data.
+
 **Data Filters**: Easily filter the data based on specific criteria such as mobile phone brands, operating systems, or feature availability to focus on areas of interest and uncover valuable insights.
-**Key Metrics**: Instantly view key metrics and statistics related to mobile phone features, brand preferences, and market trends. These metrics provide a high-level overview of the dataset and help identify areas for further analysis.
-**Drill-Down Functionality**: Dive deeper into the data by interacting with the visualizations and drilling down into more detailed information. Users can click on specific data points to explore underlying trends and patterns within the dataset.
-**Visual Themes and Layout**: The dashboard features a visually appealing layout with modern design elements and intuitive navigation, making it easy for users to explore and interpret the data.
-**Export and Sharing Options**: Export charts and insights as images or PDFs for further analysis or share the dashboard with colleagues and stakeholders to facilitate collaboration and decision-making.
-**Performance and Responsiveness**: The dashboard is optimized for performance and responsiveness, ensuring smooth interaction and fast loading times even with large datasets. Users can interact with the dashboard seamlessly to explore insights and make data-driven decisions. 
+
+**Drill-Down Functionality**: With drill-down functionality, users can click on a specific bar to reveal detailed information about the 5G availability of individual brands.Also by utilizing drill-down functionality, users can explore price ranges within each operating system category, gaining insights into pricing trends and variations.
+
+**Visual Themes and Layout**: The dashboard features a visually appealing layout with modern design elements, making it easy for users to explore and interpret the data.
+
+## Dataset
+
+The dataset used for this project is a CSV file containing information about different mobile phone models and their features. It includes data relevant to mobile phones available in the year 2023.
+- Dataset Link : [Mobile Analysis]
+
+
 
 
